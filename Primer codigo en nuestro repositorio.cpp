@@ -1,6 +1,7 @@
 //Primer codigo en nuestro repositorio
 void setup()
 {
+  //Recuerda que pinMode indica el pin del Arduino donde pongo mi sensor
   pinMode(13, OUTPUT);
 }
 
