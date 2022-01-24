@@ -7,6 +7,7 @@ void setup()
 
 void loop()
 {
+  //Aqui pones a correr al infinito escritos desde git hub
   digitalWrite(13, HIGH);
   delay(1000); // Wait for 1000 millisecond(s)
   digitalWrite(13, LOW);
